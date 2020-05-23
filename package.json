@@ -1,0 +1,22 @@
+{
+  "name": "maps-api-project",
+  "version": "1.0.0",
+  "description": "project to try some mapping features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunreddy92/Maps-Api-Project.git"
+  },
+  "author": "Tarun Reddy Nukala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunreddy92/Maps-Api-Project/issues"
+  },
+  "homepage": "https://github.com/tarunreddy92/Maps-Api-Project#readme",
+  "dependencies": {
+    "leaflet": "^1.6.0"
+  }
+}
